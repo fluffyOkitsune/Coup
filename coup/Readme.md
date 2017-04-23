@@ -1,4 +1,4 @@
-##Coup
+# Coup
 https://github.com/fluffyOkitsune/Coup
 
 # ŠT—v
